@@ -1,0 +1,13 @@
+img{
+    max-width: 100%;
+}
+
+li {
+    display: inline;
+}
+
+button {
+    background-color: green;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
